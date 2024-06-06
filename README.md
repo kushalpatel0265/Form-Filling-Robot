@@ -48,6 +48,7 @@ The automation process includes the following steps:
 3. **Use Browser:** Opens a web browser and navigates to the form page.
 4. **Type Into Activities:** Inputs data from Excel into the form fields.
 5. **Click ‘Submit’:** Submits the form.
+   
 Each activity has proper exception handling to manage errors during the execution process.
 
 ## Contributing
