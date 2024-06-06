@@ -43,11 +43,16 @@ Follow these instructions to set up and run a Form-Filling-Robot project on your
 
 ## Workflow
 The automation process includes the following steps:
-1. **Excel Process Scope**: Opens the Excel workbook.
-2. **For Each Excel Row:** Iterates through each row in the workbook.
-3. **Use Browser:** Opens a web browser and navigates to the form page.
-4. **Type Into Activities:** Inputs data from Excel into the form fields.
-5. **Click ‘Submit’:** Submits the form.
+1. Excel Process Scope
+- Opens the Excel workbook.
+2. For Each Excel Row:
+- Iterates through each row in the workbook.
+3. Use Browser:
+- Opens a web browser and navigates to the form page.
+4. Type Into Activities:
+- Inputs data from Excel into the form fields.
+5. Click ‘Submit’:
+- Submits the form.
    
 Each activity has proper exception handling to manage errors during the execution process.
 
